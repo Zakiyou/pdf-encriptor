@@ -13,3 +13,11 @@ PDF Encryptor est une application simple permettant de chiffrer des fichiers PDF
 - Les modules Tkinter et PyPDF2 installés. Vous pouvez les installer avec la commande suivante :
 
   pip install tk PyPDF2
+
+## Installation
+
+git clone git@github.com:Zakiyou/pdf-encriptor.git
+
+## Exécution
+python pdf-encriptor.py
+
